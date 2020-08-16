@@ -1,3 +1,4 @@
+```sh
 $ npx @jorgeruvalcaba/cli
 ⸨░░░░░░░░░⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⸩ ⠴ fetchMetadata: resolveWithNewModule @jorgeruvalcaba/cli@1.3.337
 
@@ -15,3 +16,4 @@ $ npx @jorgeruvalcaba/cli
 ❯ 📬 Email             jorgeruvalcabav@gmail.com
 ❯ 🐦 Twitter           @jorgearuv
 ❯ 👔 Résumé            https://bit.ly/2Q05ifr
+```
