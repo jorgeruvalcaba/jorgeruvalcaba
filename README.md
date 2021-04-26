@@ -12,7 +12,7 @@ $ npx @jorgeruvalcaba/cli
                                                                                                                             
                                Software Engineer • Mexican • Taco Master • Music Lover
 
-❯ 🌎 Website           jorgeruvalcaba.dev
+❯ 🌎 Website           jorgearuv.dev
 ❯ 📬 Email             jorgeruvalcabav@gmail.com
 ❯ 🐦 Twitter           @jorgearuv
 ❯ 👔 Résumé            https://bit.ly/2Q05ifr
